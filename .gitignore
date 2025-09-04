@@ -25,6 +25,8 @@
 
 # OS/platform generated files.
 
+!/Content/Localization/**
+
 # Windows
 ehthumbs.db
 Thumbs.db
